@@ -1,6 +1,6 @@
-from SN-ChEMBL import config
-from SN-ChEMBL.utils import import_class
-from SN-ChEMBL.cache.backends.base import BaseCache
+from SN_ChEMBL import config
+from SN_ChEMBL.utils import import_class
+from SN_ChEMBL.cache.backends.base import BaseCache
 
 cache = None
 
