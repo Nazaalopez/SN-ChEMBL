@@ -2,7 +2,7 @@
 from model import resolve
 from controller import render_entity
 from bottle import request
-from chembl_slack import app
+from SN_ChEMBL import app
 
 @app.post('/chem')
 def chem():
