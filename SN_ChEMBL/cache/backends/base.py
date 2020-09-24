@@ -2,8 +2,8 @@
 
 import time
 import hashlib
-from SN-ChEMBL.utils import import_class
-from SN-ChEMBL import config
+from SN_ChEMBL.utils import import_class
+from SN_ChEMBL import config
 
 #-----------------------------------------------------------------------------------------------------------------------
 
